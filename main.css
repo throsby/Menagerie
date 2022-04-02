@@ -41,3 +41,12 @@ h2 {
     flex-direction: row;
     justify-content: space-around;
 }
+
+.left,.right{
+    background-color: #b4deee;
+    width: 10px;
+}
+
+.spread{
+    
+}
