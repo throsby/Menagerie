@@ -1,0 +1,387 @@
+{
+    "menagerie": [{
+            "animal": "12-Wired Bird of Paradise",
+            "cover_src": "https://covers.oreilly.com/images/9780596155452/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596155452.do",
+            "title": "Mobile Design and Development",
+            "cat": {"coo":"oceania","legs":2,"animal_category":"bird","topic_domain":"Mobile"},
+            "id": "1"
+        }, 
+        {
+            "animal": "Frilled Coquette Hummingbird, perched",
+            "cover_src": "https://covers.oreilly.com/images/9781565928381/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565928381.do",
+            "title": "DHCP for Windows 2000",
+            "cat": {"coo":"south america","legs":2,"animal_category":"bird","topic_domain":"Windows OS"},
+            "id": "415"
+        }, 
+        {
+            "animal": "Gang-Gang Cockatoo",
+            "cover_src": "https://covers.oreilly.com/images/0636920022060/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920022060.do",
+            "title": "Designing Data Visualizations",
+            "cat": {"coo":"oceania","legs":2,"animal_category":"bird","topic_domain":"Data"},
+            "id": "425"
+        }, 
+        {
+            "animal": "Golden Oriole in color",
+            "cover_src": "https://covers.oreilly.com/images/9780596515096/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596515096.do",
+            "title": "Painting the Web",
+            "cat": {"coo":"north america","legs":2,"animal_category":"bird","topic_domain":"The Web"},
+            "id": "447"
+        }, 
+        {
+            "animal": "Goldfish",
+            "cover_src": "https://covers.oreilly.com/images/9780596102098/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596102098.do",
+            "title": "Learning C# 2005",
+            "cat": {"coo":"africa","legs":0,"animal_category":"fish","topic_domain":"C#"},
+            "id": "449"
+        }, 
+        {
+            "animal": "Greater Honeyguide",
+            "cover_src": "https://covers.oreilly.com/images/9780596005030/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596005030.do",
+            "title": "Perl Debugger Pocket Reference",
+            "cat": {"coo":"africa","legs":2,"animal_category":"bird","topic_domain":"Perl"},
+            "id": "470"
+        }, 
+        {
+            "animal": "Greek Tortoise",
+            "cover_src": "https://covers.oreilly.com/images/0636920025245/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920025245.do",
+            "title": "Maintainable JavaScript",
+            "cat": {"coo":"asia","legs":4,"animal_category":"reptile","topic_domain":"Javascript"},
+            "id": "473"
+        }, 
+        {
+            "animal": "Grizzly Bear",
+            "cover_src": "https://covers.oreilly.com/images/9780596155940/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596155940.do",
+            "title": "CSS Cookbook",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"CSS"},
+            "id": "486"
+        }, 
+        {
+            "animal": "Guinea Pigs",
+            "cover_src": "https://covers.oreilly.com/images/9780596007393/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596007393.do",
+            "title": "NUnit Pocket Reference",
+            "cat": {"coo":"south america","legs":4,"animal_category":"mammal","topic_domain":"NUnit"},
+            "id": "491"
+        }, 
+        {
+            "animal": "Harbour Seal",
+            "cover_src": "https://covers.oreilly.com/images/0636920041597/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920041597.do",
+            "title": "Introduction to JavaScript Object Notation",
+            "cat": {"coo":"north america","legs":2,"animal_category":"mammal","topic_domain":"Javascript"},
+            "id": "502"
+        }, 
+        {
+            "animal": "Amur Hedgehog",
+            "cover_src": "https://covers.oreilly.com/images/0636920029557/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920029557.do",
+            "title": "Data Structures and Algorithms with JavaScript",
+            "cat": {"coo":"asia","legs":4,"animal_category":"mammal","topic_domain":"Javascript"},
+            "id": "40"
+        }, 
+        {
+            "animal": "Arabian Camel",
+            "cover_src": "https://covers.oreilly.com/images/9780596003104/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596003104.do",
+            "title": "Computer Science & Perl Programming",
+            "cat": {"coo":"africa","legs":4,"animal_category":"mammal","topic_domain":"Perl"},
+            "id": "48"
+        }, 
+        {
+            "animal": "Cuckoo Pheasant",
+            "cover_src": "https://covers.oreilly.com/images/0636920025832/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920025832.do",
+            "title": "Learning JavaScript Design Patterns",
+            "cat": {"coo":"south america","legs":2,"animal_category":"mammal","topic_domain":"Javascript"},
+            "id": "313"
+        }, 
+        {
+            "animal": "Least Weasel, head and shoulders",
+            "cover_src": "https://covers.oreilly.com/images/9780596009878/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596009878.do",
+            "title": "Web Design in a Nutshell",
+            "cat": {"coo":"north america","legs":2,"animal_category":"mammal","topic_domain":"Javascript"},
+            "id": "610"
+        }, 
+        {
+            "animal": "Kangaroo nibbling a tree branch",
+            "cover_src": "https://covers.oreilly.com/images/0636920020981/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920020981.do",
+            "title": "Getting Started with Roo",
+            "cat": {"coo":"oceania","legs":2,"animal_category":"mammal","topic_domain":"Roo"},
+            "id": "578"
+        }, 
+        {
+            "animal": "Koala Bear, without branch",
+            "cover_src": "https://covers.oreilly.com/images/9780596527327/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596527327.do",
+            "title": "HTML & XHTML: The Definitive Guide",
+            "cat": {"coo":"oceania","legs":4,"animal_category":"mammal","topic_domain":"HTML"},
+            "id": "591"
+        }, 
+        {
+            "animal": "Madagascar Harrier Hawk",
+            "cover_src": "https://covers.oreilly.com/images/0636920028048/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920028048.do",
+            "title": "High Performance Browser Networking",
+            "cat": {"coo":"africa","legs":2,"animal_category":"bird","topic_domain":"Networking"},
+            "id": "647"
+        }, 
+        {
+            "animal": "Mammoth",
+            "cover_src": "https://covers.oreilly.com/images/9781565928466/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565928466.do",
+            "title": "Practical PostgreSQL",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"SQL"},
+            "id": "657"
+        }, 
+        {
+            "animal": "Mimic Butterfly",
+            "cover_src": "https://covers.oreilly.com/images/9780596519681/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596519681.do",
+            "title": "MediaWiki",
+            "cat": {"coo":"north america","legs":6,"animal_category":"insect","topic_domain":"The Web"},
+            "id": "678"
+        }, 
+        {
+            "animal": "Polar Bear Color",
+            "cover_src": "https://covers.oreilly.com/images/0636920034674/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920034674.do",
+            "title": "Information Architecture",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"CS Thinking"},
+            "id": "794"
+        }, 
+        {
+            "animal": "Red Ant Male",
+            "cover_src": "https://covers.oreilly.com/images/9780596514105/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596514105.do",
+            "title": "Oracle PL/SQL Best Practices",
+            "cat": {"coo":"south america","legs":6,"animal_category":"insect","topic_domain":"SQL"},
+            "id": "822"
+        }, 
+        {
+            "animal": "Rhinoceros Beetle",
+            "cover_src": "https://covers.oreilly.com/images/9780596514983/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596514983.do",
+            "title": "Real World Haskell",
+            "cat": {"coo":"south america","legs":6,"animal_category":"insect","topic_domain":"Haskell"},
+            "id": "844"
+        }, 
+        {
+            "animal": "Salamander",
+            "cover_src": "https://covers.oreilly.com/images/0636920013471/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920013471.do",
+            "title": "SQL Pocket Guide",
+            "cat": {"coo":"north america","legs":4,"animal_category":"amphibian","topic_domain":"SQL"},
+            "id": "882"
+        },
+        {
+            "animal": "Sea Lion and Seals",
+            "cover_src": "https://covers.oreilly.com/images/9780596002701/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596002701.do",
+            "title": "Network Security with OpenSSL",
+            "cat": {"coo":"north america","legs":2,"animal_category":"mammal","topic_domain":"Networking"},
+            "id": "909"
+        },
+        {
+            "animal": "Sea Otter",
+            "cover_src": "https://covers.oreilly.com/images/9780596006396/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596006396.do",
+            "title": "Automating System Administration with Perl",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"Perl"},
+            "id": "910"
+        },
+        {
+            "animal": "Sea Pen Cnidarian",
+            "cover_src": "https://covers.oreilly.com/images/9783897218802/cat.gif",
+            "link": "https://shop.oreilly.com/product/9783897218802.do",
+            "title": "Praxisbuch Nagios (German Animal)",
+            "cat": {"coo":"north america","legs":0,"animal_category":"terror of the deep","topic_domain":"Nagios"},
+            "id": "911"
+        },
+        {
+            "animal": "Sheriff man, wearing hat and badge  head",
+            "cover_src": "https://covers.oreilly.com/images/9780596005894/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596005894.do",
+            "title": "Learning Red Hat Enterprise Linux & Fedora",
+            "cat": {"coo":"north america","legs":2,"animal_category":"human","topic_domain":"Linux"},
+            "id": "923"
+        },
+        {
+            "animal": "Short-tailed Pangolin",
+            "cover_src": "https://covers.oreilly.com/images/0636920024057/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920024057.do",
+            "title": "Practical Computer Vision with SimpleCV",
+            "cat": {"coo":"africa","legs":4,"animal_category":"mammal","topic_domain":"SimpleCV"},
+            "id": "930"
+        },
+        {
+            "animal": "Shorthorn Bull",
+            "cover_src": "https://covers.oreilly.com/images/0636920018254/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920018254.do",
+            "title": "Data Source Handbook",
+            "cat": {"coo":"europe","legs":4,"animal_category":"mammal","topic_domain":"Data"},
+            "id": "932"
+        },
+        {
+            "animal": "Silkworm Moth",
+            "cover_src": "https://covers.oreilly.com/images/9781565927537/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565927537.do",
+            "title": "Oracle Net8 Configuration and Troubleshooting",
+            "cat": {"coo":"asia","legs":6,"animal_category":"insect","topic_domain":"Network"},
+            "id": "941"
+        },
+        {
+            "animal": "Spotted Dalmatian",
+            "cover_src": "https://covers.oreilly.com/images/9781565927179/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565927179.do",
+            "title": "Lotus Domino Administration  in a Nutshell",
+            "cat": {"coo":"europe","legs":4,"animal_category":"mammal","topic_domain":"Lotus Domino"},
+            "id": "986"
+        },
+        {
+            "animal": "Stag Beetle",
+            "cover_src": "https://covers.oreilly.com/images/9781565926745/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565926745.do",
+            "title": "Oracle PL/SQL Programming: A Developer's Workbook",
+            "cat": {"coo":"europe","legs":6,"animal_category":"insect","topic_domain":"SQL"},
+            "id": "1001"
+        },
+        {
+            "animal": "Star-nosed Mole",
+            "cover_src": "https://covers.oreilly.com/images/9780596003159/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596003159.do",
+            "title": "C# Essentials",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"C#"},
+            "id": "1003"
+        }, 
+        {
+            "animal": "Steppe Eagle",
+            "cover_src": "https://covers.oreilly.com/images/0636920050964/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920050964.do",
+            "title": "The SEO Battlefield",
+            "cat": {"coo":"asia","legs":2,"animal_category":"bird","topic_domain":"The Web"},
+            "id": "1004"
+        },
+        {
+            "animal": "Striped Hyena",
+            "cover_src": "https://covers.oreilly.com/images/9780596004002/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596004002.do",
+            "title": "Mac OS X for Java Geeks",
+            "cat": {"coo":"africa","legs":4,"animal_category":"mammal","topic_domain":"Mac OS"},
+            "id": "1011"
+        },
+        {
+            "animal": "Sugar Squirrel, Biak Glider",
+            "cover_src": "https://covers.oreilly.com/images/0636920025955/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920025955.do",
+            "title": "Web Performance Daybook Volume 2 ",
+            "cat": {"coo":"oceania","legs":4,"animal_category":"mammal","topic_domain":"The Web"},
+            "id": "1015"
+        },
+        {
+            "animal": "Sumatran Tiger",
+            "cover_src": "https://covers.oreilly.com/images/0636920030393/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920030393.do",
+            "title": "Functional Thinking",
+            "cat": {"coo":"asia","legs":4,"animal_category":"mammal","topic_domain":"CS Thinking"},
+            "id": "1017"
+        },
+        {
+            "animal": "Sunda Slow Loris",
+            "cover_src": "https://covers.oreilly.com/images/0636920039747/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920039747.do",
+            "title": "Calm Technology",
+            "cat": {"coo":"asia","legs":4,"animal_category":"mammal","topic_domain":"CS Thinking"},
+            "id": "1021"
+        }, 
+        {
+            "animal": "Tamandua Collared Anteater",
+            "cover_src": "https://covers.oreilly.com/images/9780596002732/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596002732.do",
+            "title": "Access Database Design & Programming",
+            "cat": {"coo":"south america","legs":4,"animal_category":"mammal","topic_domain":"CS Thinking"},
+            "id": "1029"
+        },
+        {
+            "animal": "Tiger Butterfly",
+            "cover_src": "https://covers.oreilly.com/images/9780596517748/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596517748.do",
+            "title": "JavaScript: The Good Parts",
+            "cat": {"coo":"north america","legs":6,"animal_category":"insect","topic_domain":"Javascript"},
+            "id": "1051"
+        },
+        {
+            "animal": "Wolf",
+            "cover_src": "https://covers.oreilly.com/images/9781565923980/cat.gif",
+            "link": "https://shop.oreilly.com/product/9781565923980.do",
+            "title": "Mastering Algorithms with Perl",
+            "cat": {"coo":"europe","legs":4,"animal_category":"mammal","topic_domain":"Perl"},
+            "id": "1132"
+        },
+        {
+            "animal": "Wombat",
+            "cover_src": "https://covers.oreilly.com/images/0636920149033/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920149033.do",
+            "title": "Hands-On Unsupervised Learning Using Python",
+            "cat": {"coo":"oceania","legs":4,"animal_category":"mammal","topic_domain":"Python"},
+            "id": "1138"
+        },
+        {
+            "animal": "Wood Rat",
+            "cover_src": "https://covers.oreilly.com/images/0636920028154/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920028154.do",
+            "title": "Learning Python",
+            "cat": {"coo":"north america","legs":4,"animal_category":"mammal","topic_domain":"Python"},
+            "id": "1143"
+        },
+        {
+            "animal": "Yak",
+            "cover_src": "https://covers.oreilly.com/images/0636920032304/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920032304.do",
+            "title": "Accumulo",
+            "cat": {"coo":"asia","legs":4,"animal_category":"mammal","topic_domain":"Accumulo"},
+            "id": "1148"
+        },
+        {
+            "animal": "Zebra",
+            "cover_src": "https://covers.oreilly.com/images/9780596510329/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596510329.do",
+            "title": "Advanced Rails",
+            "cat": {"coo":"africa","legs":4,"animal_category":"mammal","topic_domain":"Rails"},
+            "id": "1152"
+        },
+        {
+            "animal": "Zebu Cow",
+            "cover_src": "https://covers.oreilly.com/images/9780596002756/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596002756.do",
+            "title": "IP Routing",
+            "cat": {"coo":"asia","legs":4,"animal_category":"mammal","topic_domain":"Networking"},
+            "id": "1154"
+        },
+        {
+            "animal": "Woolly Monkey",
+            "cover_src": "https://covers.oreilly.com/images/9780596528386/cat.gif",
+            "link": "https://shop.oreilly.com/product/9780596528386.do",
+            "title": "Ajax: The Definitive Guide",
+            "cat": {"coo":"south america","legs":4,"animal_category":"mammal","topic_domain":"Ajax"},
+            "id": "1144"
+        },
+        {
+            "animal": "White-bellied Parrot aka Green-thighed Parrot",
+            "cover_src": "https://covers.oreilly.com/images/0636920058687/cat.gif",
+            "link": "https://shop.oreilly.com/product/0636920058687.do",
+            "title": "DevOps with OpenShift",
+            "cat": {"coo":"south america","legs":2,"animal_category":"bird","topic_domain":"DevOps"},
+            "id": "1116"
+        }
+    ]
+}

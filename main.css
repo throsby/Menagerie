@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header,.footer {
+    /* border-color: #316a94; */
+    background-color: #316a94;
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    border-color: #316a94;
+    background-color: #418ec4;
+}
+
+h2 {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #418ec4;
+    border-color: #316a94;
+}
+
+[class^="line"] {
+    background: #7bcdee;
+}
+
+.card {
+    padding: 5px;
+    border: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    background: #ffac41;
+    border-color: #316a94;
+}
+
+.container {
+    background: #b4deee;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
